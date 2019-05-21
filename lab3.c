@@ -7,7 +7,7 @@ int count;
 
 float fun(float Ud)
 {
- float E = 5, R = 1E3, i0 = 3E-9, m = 1.7, Fit = 26E-3;
+ float E = 15, R = 3E3, i0 = 8E-9, m = 1.6, Fit = 26E-3;
  float id;
 
  count++;
